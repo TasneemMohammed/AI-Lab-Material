@@ -35,4 +35,4 @@ This repository contains some AI visualizations in addition to AI algorithms imp
 
 13- Alpha-Beta
    * Ref:
-   * Visualization: 
+   * Visualization: [Alpha-Beta Trace](https://pascscha.ch/info2/abTreePractice/)
