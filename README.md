@@ -6,7 +6,6 @@ Implemented AI algorithms and prepared the following programming topics:
    * Ref: [Python documentation](https://docs.python.org/3/tutorial/index.html)   
 
 2- Depth First Search 
-   * Trace and Code
 
 3- Breadth-First Search
 
