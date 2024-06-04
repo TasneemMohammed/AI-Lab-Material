@@ -24,11 +24,14 @@ This repository contains some AI visualizations in addition to AI algorithms imp
 9- Particle Swarm Optimization
    * Ref: []()
      
-10- Ant Colony Optimization
-   * Ref: []()
+10- Ant Colony Optimization - Solving Traveling Sales Man Problem
+   * Ref: [Medium](https://induraj2020.medium.com/implementation-of-ant-colony-optimization-using-python-solve-traveling-salesman-problem-9c14d3114475)
  
-11- Fuzzy Logic
+11- Logic 
+    * Ref
 
-12- Logic
+12- Fuzzy Logic
+   * Ref:  
 
 13- Alpha-Beta
+   * Ref: 
