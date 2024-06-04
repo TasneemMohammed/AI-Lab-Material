@@ -12,9 +12,9 @@ This repository contains some AI visualizations in addition to AI algorithms imp
 
 4- Greedy Search
 
-5- Hill Climbing Search
+5- Uniform Search
 
-6- Uniform Search
+6- Hill Climbing Search
 
 7- A-star Search
 
