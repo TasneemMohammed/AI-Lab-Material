@@ -28,7 +28,7 @@ This repository contains some AI visualizations in addition to AI algorithms imp
    * Ref: [Medium](https://induraj2020.medium.com/implementation-of-ant-colony-optimization-using-python-solve-traveling-salesman-problem-9c14d3114475)
  
 11- Logic - Knowledge Engineering
-    * Ref: [Harvard]()
+    * Ref: []()
 
 12- Fuzzy Logic
    * Ref:  
