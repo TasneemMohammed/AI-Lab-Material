@@ -1,4 +1,5 @@
-# AI Lab Material Prepared By Me (Computer Science, Alexandria University)
+# AI Lab Material (Computer Science, Alexandria University)
+### Prepared By Tasneem Selim
 
 Implemented AI algorithms and prepared the following programming topics: 
 
