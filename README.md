@@ -1,7 +1,7 @@
 # AI Lab Material (Computer Science, Alexandria University)
 ### Prepared By Tasneem Selim
 
-Implemented AI algorithms and prepared the following programming topics: 
+This repository contains some AI visualizations in addition to AI algorithms implementation using Python: 
 
 1- Intro to programming with Python 
    * Ref: [Python documentation](https://docs.python.org/3/tutorial/index.html)   
