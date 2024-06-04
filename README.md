@@ -1,4 +1,4 @@
-# AI-Lab-Material-Prepared-By-Me (Computer Science, Alexandria University)
+# AI Lab Material Prepared By Me (Computer Science, Alexandria University)
 
 Implemented AI algorithms and prepared the following programming topics: 
 
