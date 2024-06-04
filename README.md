@@ -22,7 +22,7 @@ This repository contains some AI visualizations in addition to AI algorithms imp
 
 9- Logic
 
-10- Alpha-Beta Implementation
+10- Alpha-Beta 
 
 11- Fuzzy Logic
 
