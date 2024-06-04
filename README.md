@@ -21,12 +21,14 @@ This repository contains some AI visualizations in addition to AI algorithms imp
 8- Genetic algorithm - The Knapsack Problem 
    * Ref: [kdnuggets website](https://www.kdnuggets.com/2023/01/knapsack-problem-genetic-programming-python.html)
 
-9- Logic
-
-10- Alpha-Beta 
-
+9- Particle Swarm Optimization
+   * Ref: []()
+     
+10- Ant Colony Optimization
+   * Ref: []()
+ 
 11- Fuzzy Logic
 
-12- Particle Swarm Optimization
+12- Logic
 
-13- Ant Colony Optimization
+13- Alpha-Beta
