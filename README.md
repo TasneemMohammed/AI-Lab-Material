@@ -1,6 +1,9 @@
 # AI Lab Material (Computer Science, Alexandria University)
 ### Prepared By Tasneem Selim
 
+
+[![Static Badge](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/downloads/)
+
 This repository contains some AI visualizations in addition to AI algorithms implementation using Python: 
 
 1- Intro to programming with Python 
