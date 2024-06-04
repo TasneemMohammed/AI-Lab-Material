@@ -19,7 +19,7 @@ This repository contains some AI visualizations in addition to AI algorithms imp
 7- A-star Search
 
 8- Genetic algorithm - The Knapsack Problem 
-   * [kdnuggets website](https://www.kdnuggets.com/2023/01/knapsack-problem-genetic-programming-python.html)
+   * Ref: [kdnuggets website](https://www.kdnuggets.com/2023/01/knapsack-problem-genetic-programming-python.html)
 
 9- Logic
 
