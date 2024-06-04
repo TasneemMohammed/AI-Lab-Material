@@ -31,7 +31,7 @@ This repository contains some AI visualizations in addition to AI algorithms imp
    * Ref: [Harvard - CS50 Introduction to AI with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/block-v1:HarvardX+CS50AI+1T2020+type@sequential+block@dc23cc1d3d8c4c42a690234453e02bbd/block-v1:HarvardX+CS50AI+1T2020+type@vertical+block@e3a2adc252884529bf3d0aae7d9540af)
 
 12- Fuzzy Logic
-   * Ref:  
+   * Ref: [scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html#:~:text=The%20'tipping%20problem'%20is%20commonly,reading%20through%20this%20worked%20example.)  
 
 13- Alpha-Beta
    * Ref: 
