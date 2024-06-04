@@ -2,7 +2,8 @@
 
 Implemented AI algorithms and prepared the following programming topics: 
 
-1- Intro to programming with Python
+1- Intro to programming with Python 
+   * Ref: [Python documentation](https://docs.python.org/3/tutorial/index.html)   
 
 2- Depth First Search 
 
