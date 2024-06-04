@@ -25,7 +25,7 @@ This repository contains some AI visualizations in addition to AI algorithms imp
    * Ref: [kdnuggets website](https://www.kdnuggets.com/2023/01/knapsack-problem-genetic-programming-python.html)
 
 9- Particle Swarm Optimization
-   * Ref: []()
+   * Ref: [Medium](https://induraj2020.medium.com/implementing-particle-swarm-optimization-in-python-c59278bc5846#:~:text=Particle%20Swarm%20Optimization%20(PSO)%20is,solution%20to%20a%20given%20problem.)
      
 10- Ant Colony Optimization - Solving Traveling Sales Man Problem
    * Ref: [Medium](https://induraj2020.medium.com/implementation-of-ant-colony-optimization-using-python-solve-traveling-salesman-problem-9c14d3114475)
