@@ -1,10 +1,10 @@
-# AI Lab Material (Computer Science, Alexandria University)
+# AI Lab Material
 ### Prepared By Tasneem Selim
 
 
 [![Static Badge](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/downloads/)
 
-This repository provides comprehensive instruction in Python programming and classical graph search algorithms, covering a range of methodologies. These include uninformed search approaches such as depth-first search, breadth-first search, and uniform algorithms, as well as informed search strategies utilizing heuristics such as A*, greedy algorithms, and hill climbing. These algorithms constitute fundamental components of numerous classical AI techniques, playing critical roles in planning, optimization, problem-solving, and diverse domains. Additionally, the repository offers an introduction to Adversarial Search, which involves exploring multi-agent environments and making decisions in competitive scenarios, employing concepts from game theory such as the alpha-beta theorem. Moreover, it encompasses implementations of various computational optimization techniques, including genetic algorithms, particle swarm optimization, and Ant Colony Optimization. Furthermore, it provides instruction in fuzzy logic and knowledge engineering.
+This repository provides comprehensive instruction in Python programming and classical graph search algorithms, covering a range of methodologies. These include uninformed search approaches such as Depth-First Search, Breadth-First Search, and Uniform Search algorithms, as well as informed search strategies utilizing heuristics such as A*, Greedy algorithms, and Hill-Climbing. These algorithms constitute fundamental components of numerous classical AI techniques, playing critical roles in planning, optimization, problem-solving, and diverse domains. Additionally, the repository offers an introduction to Adversarial Search, which involves exploring multi-agent environments and making decisions in competitive scenarios, employing concepts from game theory such as the Alpha-Beta theorem. Moreover, it encompasses implementations of various computational optimization techniques, including Genetic algorithms, Particle Swarm Optimization, and Ant Colony Optimization. Furthermore, it provides instruction in fuzzy logic and knowledge engineering.
 
 #### Syllabus: 
 
